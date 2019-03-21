@@ -4,6 +4,8 @@ package testcurso;
 import java.util.Scanner;
 
 public class TestCurso {
+    //este comentario lo añadi yo(Daniel)
+    //esta tambien ajja
 
     public static void main(String[] args) {
                 Scanner scanner = new Scanner(System.in);
@@ -50,6 +52,8 @@ public class TestCurso {
        System.out.println("simbolo"+simbolo+"\n");
        
        System.out.println("envio Gratuito: "+envioGratuito);
+       
+       System.exit(0);
        
     }
     
